@@ -1,0 +1,46 @@
+
+.nav{
+    justify-content: space-around;
+ display: flex;
+}
+a{
+    background-color: brown;
+    text-decoration: none;
+    color: bisque;
+    margin-top: 10px;
+    padding: 13px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a:hover{
+    background-color: rgb(107, 21, 5);
+}
+h2{
+    text-align: center;
+    color: rgb(13, 3, 43);
+    background-color: rgba(206, 142, 96, 0.5);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    font: weight 100;
+   
+}
+.des{
+    text-align: center;
+    color: rgb(13, 3, 43);
+    background-color: rgba(206, 142, 96, 0.5);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: weight 0;
+    font-size: 150%;
+    padding: 50px;
+}
+p{
+    text-align: center;
+    color: rgb(13, 3, 43);
+    background-color: rgba(206, 142, 96, 0.5);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: weight 0;
+    margin-top:70px;
+}
+
+
+
+

@@ -1,0 +1,16 @@
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+    margin: 30px;
+    color: white;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: honeydew;
+    text-align: center;
+}
+div{
+    background-color: rgba(128, 128, 128, 0.438);
+    border: 3px solid gray;
+    margin: 20px;
+}
